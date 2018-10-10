@@ -15,4 +15,4 @@ To design the website in Photoshop and then code it with HTML and CSS.
 
 ### Open in browser
 
-![gitpages website](https://nomi811.github.io/milestone-portfolio/)
+[gitpages website](https://nomi811.github.io/milestone-portfolio/)
